@@ -1,3 +1,4 @@
+[Banner](https://imgur.com/5pWh58S)
 # Know About Me
 
 Hi there! I am Banipreet, currently pursuing Dual Degree (B.Tech + M.Tech) in Computer Science & Engineering at [Indian Institute of Technology (Indian School of Mines), Dhanbad](https://www.iitism.ac.in/).
