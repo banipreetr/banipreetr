@@ -2,7 +2,7 @@
 # Know About Me
 
 Hi there! I am Banipreet, currently pursuing Dual Degree (B.Tech + M.Tech) in Computer Science & Engineering at [Indian Institute of Technology (Indian School of Mines), Dhanbad](https://www.iitism.ac.in/).
-I am largely self-taught and have focused heavily on online resources as well as hands-on implementation to pursue my dream of becoming a successful Software Engineer. I have recently completed my summer internship as a Software Engineer Intern at [Bloomberg](https://www.techatbloomberg.com/).
+I am largely self-taught and have focused heavily on online resources as well as hands-on implementation to pursue my dream of becoming a successful Software Engineer. I have recently completed my summer internship as a Software Engineer Intern at [Bloomberg](https://www.techatbloomberg.com/), and currently I am interning as a Member of Technical Staff at [Nutanix](https://www.nutanix.com/theforecastbynutanix/technology).
 
 My domain of interests includes Competitive Programming, Object-Oriented Designing, Deep Learning, Computer Vision, Machine Learning, and Data Analytics. Apart from this, I like to spend my free time in participating in Competitive Programming contests at [Codeforces](https://codeforces.com/), solving problems on [Leetcode](https://leetcode.com/), watch movies & TV-Series and play online games.
 
